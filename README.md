@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, con
 
 ## About Me
 
-- 🎓 Pursuing my Master's in Computer Applications (MCA) from [Your University]
+- 🎓 Pursuing my Master's in Computer Applications (MCA) from [Biju Patnaik University of Technology Rourkela Odisha]
 - 🌟 Passionate about turning data into actionable insights
 - 📊 Skilled in Python, SQL, and data visualization tools
 - 🤖 Curious about machine learning algorithms and predictive modeling
