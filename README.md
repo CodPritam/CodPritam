@@ -1,6 +1,4 @@
-Certainly! Creating an impressive README for your GitHub profile is a great way to showcase your skills and make a positive first impression. Let's craft a professional and attractive README tailored to your background as a fresh MCA student with expertise in data science.
 
----
 
 # Hi there! 👋 I'm [Pritam Panigrahi]
 
