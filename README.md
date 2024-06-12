@@ -1,6 +1,6 @@
 
 
-# Hi there! 👋 I'm [Pritam Panigrahi]
+# Hi there! 👋 I'm Pritam Panigrahi
 
 Aspiring Data Scientist | MCA Graduate | Passionate about Machine Learning and Analytics
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, con
 
 ## About Me
 
-- 🎓 Pursuing my Master's in Computer Applications (MCA) from [Biju Patnaik University of Technology Rourkela Odisha]
+- 🎓 Pursuing my Master's in Computer Applications (MCA) from Biju Patnaik University of Technology Rourkela Odisha
 - 🌟 Passionate about turning data into actionable insights
 - 📊 Skilled in Python, SQL, and data visualization tools
 - 🤖 Curious about machine learning algorithms and predictive modeling
