@@ -1,17 +1,12 @@
-Perfect 😈⚡
-Here’s a **Dark-Neon AI themed GitHub README** that feels **futuristic, premium, and recruiter-ready** — tailored exactly to **your AI / GenAI / Full-Stack profile**.
+<!-- ================= AI NEON BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fffc1,100:00bfff&height=220&section=header&text=Pritam%20Panigrahi&fontSize=44&fontColor=0fffc1&fontAlignY=35&desc=Data%20Scientist%20|%20GenAI%20Developer%20|%20MDM%20Developer%20|%20Backend%20Services&descAlignY=55" />
+</p>
 
-You can **copy–paste this directly** into your `README.md`.
-
----
-
-````md
 <div align="center">
 
-# ⚡ Pritam Panigrahi ⚡  
-### 🧠 AI Engineer | GenAI Developer | Full-Stack Backend
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+Applications;GenAI+%7C+RAG+%7C+NLP+%7C+Backend;Maintaining+and+Building+Data+Platforms+using+Semarchy+xDM;Turning+Ideas+into+Intelligent+Systems" />
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+Applications;GenAI+%7C+RAG+%7C+NLP+%7C+Backend;Turning+Ideas+into+Intelligent+Systems" />
 
 </div>
 
@@ -20,7 +15,7 @@ You can **copy–paste this directly** into your `README.md`.
 ## 🧠 Who Am I?
 
 I’m a **2024 MCA graduate** passionate about building **intelligent, scalable, AI-driven applications**.  
-My work sits at the intersection of **Artificial Intelligence, Backend Engineering, and Cloud**.
+My work sits at the intersection of **Artificial Intelligence, Backend Engineering, Data, and Cloud**.
 
 I don’t just train models —  
 👉 I **deploy intelligence into real products**.
@@ -39,38 +34,62 @@ I don’t just train models —
 
 ---
 
-## 🛠️ Tech Stack (Dark-Neon Arsenal)
+## 🧠 What I Build (AI-First)
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=0FFFC1&center=true&vCenter=true&width=700&lines=🤖+Intelligent+Chatbots+%26+AI+Assistants;🔐+Secure+Authentication+Pipelines;📊+Data-driven+Backend+APIs;🧠+Context-aware+GenAI+Systems" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack 
 
 ### 👨‍💻 Languages
 
-* Python
-* Java
-* C
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
 
 ### 🤖 AI / ML / GenAI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
 * Machine Learning & Deep Learning
 * NLP
 * RAG (Retrieval-Augmented Generation)
-* LangChain
-* LLM Fine-Tuning (Foundational)
+* LangChain / LangServe
+* LLM Fine-Tuning
 
 ### 🌐 Backend & Web
 
-* Django | Flask
-* REST APIs
-* HTML | CSS
-* JavaScript (Learning)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flask,html,css,js" />
+</p>
 
-### 🗄️ Data & Databases
+### 🗄️ Data and Databases  
 
-* MS SQL Server
-* Data Analysis with Python
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://www.semarchy.com/wp-content/uploads/2022/03/semarchy-logo.svg" height="40" alt="Semarchy xDM"/>
+</p>
+
+- **PostgreSQL**
+- **MS SQL Server**
+- **Semarchy xDM (Master Data Management)**
+- Data Analysis with Python
+
+
 
 ### ☁️ Cloud & Auth
 
-* Microsoft Azure (AZ-900 Certified)
-* Firebase Authentication (Google, GitHub, Email, Phone)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,firebase" />
+</p>
 
 ---
 
@@ -98,44 +117,33 @@ I don’t just train models —
 
 ## 📜 Certifications
 
-* 🏅 **Microsoft Azure Fundamentals (AZ-900)**
-* 🏅 **Semarchy xDM – MDM Fundamentals**
+- 🏅 **Microsoft Azure Fundamentals (AZ-900)**
+- 🏅 **IBM Cognitive Applied Data Science with Python (Level 2)**
+- 🏅 **IBM SkillsBuild – Python for Machine Learning** 
+- 🏅 **Semarchy xDM – Master Data Management** *(Hands-on Experience)*
+
 
 ---
 
-## 🧩 What Sets Me Apart?
+## 🧪 Currently Exploring
 
-* 🔥 AI + Backend + Cloud in one profile
-* 🧠 Strong focus on **real-world deployment**
-* 🏗️ Clean architecture & scalable design
-* 🎯 Product-driven mindset, not just theory
-
----
-
-## 🌐 Connect With Me
+```txt
+• Advanced RAG architectures
+• Azure AI & Cognitive Services
+• Scalable GenAI backend systems
+• Production-ready LLM pipelines
+```
 
 <div align="center">
 
-🔗 **GitHub** → [https://github.com/your-github-username](https://github.com/your-github-username)
-🔗 **LinkedIn** → [https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
-🌐 **Portfolio** → [https://your-portfolio-link](https://your-portfolio-link)
-📧 **Email** → [your.email@example.com](mailto:your.email@example.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/pritam-panigrahi-220731274/) &nbsp; | &nbsp;
+🌐 [Portfolio](https://codpritam.github.io/Portfolio/) &nbsp; | &nbsp;
+💻 [LeetCode](https://leetcode.com/u/Versatile_coder/) &nbsp; | &nbsp;
+📧 [Email](mailto:p.pritam201@gmail.com)
 
 </div>
 
----
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&icon_color=00F7FF&title_color=00F7FF" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true&ring=00F7FF&fire=00F7FF" />
-
-</div>
-
----
 
 ## ⚡ Philosophy
 
@@ -145,8 +153,6 @@ Ship impact.
 Learn relentlessly."
 ```
 
----
-
 <div align="center">
 
 ⭐ If my work resonates with you, feel free to explore my repositories and connect!
@@ -154,26 +160,6 @@ Learn relentlessly."
 </div>
 ```
 
----
 
-## 🔧 What You MUST Replace
 
-Replace these with your real links:
 
-* `your-github-username`
-* `your-linkedin-profile`
-* `your-portfolio-link`
-* `your.email@example.com`
-
----
-
-## 🔥 Want This Even More Insane?
-
-I can:
-
-* Add **neon skill icons**
-* Add **AI-themed SVG banners**
-* Create a **minimal vs animated version**
-* Optimize this for **AI Engineer / GenAI roles**
-
-Just tell me the next upgrade 🚀
